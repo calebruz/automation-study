@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationStudy.SandboxApp", "AutomationStudy.SandboxApp\AutomationStudy.SandboxApp.csproj", "{DF47ECA4-EDF7-4F31-8D5A-47F8D80FD5E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationStudy.SandboxApp.Tests", "AutomationStudy.SandboxApp.Tests\AutomationStudy.SandboxApp.Tests.csproj", "{4FD4334B-F264-4309-8A23-BF9CD32692A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationStudy.SeleniumExperiments", "AutomationStudy.SeleniumExperiments\AutomationStudy.SeleniumExperiments.csproj", "{E67CC285-A17C-4C10-A60A-8EEA7010F244}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DF47ECA4-EDF7-4F31-8D5A-47F8D80FD5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF47ECA4-EDF7-4F31-8D5A-47F8D80FD5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF47ECA4-EDF7-4F31-8D5A-47F8D80FD5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD4334B-F264-4309-8A23-BF9CD32692A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD4334B-F264-4309-8A23-BF9CD32692A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD4334B-F264-4309-8A23-BF9CD32692A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD4334B-F264-4309-8A23-BF9CD32692A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67CC285-A17C-4C10-A60A-8EEA7010F244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67CC285-A17C-4C10-A60A-8EEA7010F244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67CC285-A17C-4C10-A60A-8EEA7010F244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67CC285-A17C-4C10-A60A-8EEA7010F244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
